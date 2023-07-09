@@ -1,4 +1,6 @@
-# mipt_msai_devOps
+# RBC crawler
+
+Main url: https://www.rbc.ru/
 
 Pyhon notebook consist of class RBCparser, which has several methods:
 
